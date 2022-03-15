@@ -1,4 +1,4 @@
-👋 Hi, I’m @config-ci-robot. I manage GitHub configuration for @compas-sct
+👋 Hi, I’m @config-ci-robot. I manage GitHub configuration
 
 <!---
 config-ci-robot/config-ci-robot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
